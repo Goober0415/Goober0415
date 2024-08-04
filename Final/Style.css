@@ -1,0 +1,41 @@
+/* style.css */
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#gameContainer {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+input[type=text],
+button {
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.cell {
+    width: 80px;
+    height: 80px;
+    background-color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+#gameResults {
+    margin-top: 20px;
+}
