@@ -2,7 +2,7 @@
 - 👀 I’m currently an IOT Educator trying to build my engineering career
 - 🌱 Phi Theta Kappa Honor society, NSLS, SWE
 - 💞️ I’m looking to collaborate on any projects!
-- 📫 How to reach me jamiegavina@gmail.com or find me on linked in or hackster Jamie Dowden-Duarte 
+- 📫 How to reach me jamiegavina@gmail.com https://www.linkedin.com/in/embeddedcodingjamiedowdenduarte/ https://www.hackster.io/jamiedowden-duarte
 
 <!---
 Goober0415/Goober0415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
