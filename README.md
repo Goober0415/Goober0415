@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Goober0415
-- 👀 I’m currently an IOT Educator trying to build my engineering career
+- 👋 Hi, I’m Jamie AKA @Goober0415
+- 👀 I’m currently the Deep Dive IoT Trainer and IOT Educator @fuse makerspace and a co-owner of Cooperative Codebase LLC
 - 🌱 Phi Theta Kappa Honor society, NSLS, SWE
-- 💞️ I’m looking to collaborate on any projects!
+  
 - 📫 How to reach me jamiegavina@gmail.com https://www.linkedin.com/in/embeddedcodingjamiedowdenduarte/ https://www.hackster.io/jamiedowden-duarte
 
 <!---
